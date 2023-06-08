@@ -7,3 +7,47 @@
     --enlaces:#fff;
     --enlaceSobre:#7d1f1f;
 }
+
+html{
+    overflow-x: hidden;
+    overflow-y: scroll;
+    max-width: 100%;
+    font-family: var(--fuente);
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+a{
+    text-decoration: none !important;
+}
+
+header{
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--colorHeader);
+}
+
+.header-superior{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top:5px;
+
+}
+
+.logo img {
+    width: 120px;
+}
+    
