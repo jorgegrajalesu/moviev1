@@ -152,3 +152,40 @@ nav ul li ul li a:hover{
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
 
 }
+
+/* titulo novedades */
+.title{
+    text-align: center;
+    font-family: var(--fuente);
+    font-size: 3.5rem;
+    color: #000;
+    font-weight: bold;
+    margin-top: 240px;
+}
+
+/* slider */
+.container__slider{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    margin: auto;
+    max-width: 800px;
+    padding: 20px 10px;
+}
+
+input[type=radio] {
+    display: none;
+
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+    max-width: 500px;
+    max-height: 600px;
+    transform-style: preserve-3d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
