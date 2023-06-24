@@ -407,5 +407,16 @@ img{
 }
 
 .subtitle{
-    
+    font-family: var(--fuente);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: .5px;
+    border-radius: 5px;
+    margin-bottom: 12px;
+    background: linear-gradient(120deg, #074362 20.70%, #229ad7 50.10%, #9b9b9b 75.50%);
+    -webkit-background-clip: text;
+    background-clip: #074362;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
 }
