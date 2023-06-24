@@ -330,3 +330,34 @@ img{
     line-height: 40px;
     margin-bottom: 20px;
 }
+
+.frontpage__links-item{
+    text-decoration: none;
+}
+
+.frontpage__links-item:hover{
+    opacity: 0.8;
+}
+
+.frontpage__links-icon{
+    margin: 0 auto;
+    display: block;
+    width: 200px;
+    height: 200px;
+    font-family: var(--fuente);
+    color: #1c1b1b;
+    font-size: 50px;
+    line-height: 100px;
+}
+
+.frontpage__links-title,
+.frontpage__links-description{
+    display: block;
+    text-align: center;
+}
+
+.frontpage__links-description{
+    color: #414040;
+    font-size: 14px;
+}
+
