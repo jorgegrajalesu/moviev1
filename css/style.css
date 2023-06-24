@@ -246,3 +246,21 @@ img{
     transform: translateX(40) scale(1);   
     z-index: 1;
 }
+
+/* estilos estandar */
+.frontpage__cta-wrapper{
+    overflow: hidden;
+}
+
+.cta__main{
+    width: 100%;
+    text-align: center;
+}
+
+.frontpage__cta-title{
+    font-family: var(--fuente);
+    font-size: 1.6rem;
+    text-align:left;
+    line-height: 1.3;
+    font-weight: 700;
+}
