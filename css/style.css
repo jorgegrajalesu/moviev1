@@ -286,3 +286,39 @@ img{
     margin: 0 auto;  
 
 }
+
+.frontpage__cta-action:hover{
+    background-color: #2d5bbd;
+    color: #fff;
+}
+
+.frontpage__links-wrapper{
+    display: block;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.frontpage__links-title{
+    font-family: var(--fuente);
+    font-size: 1.2rem;
+    letter-spacing: 0;
+    font-weight: 700;
+    color: #1c1b1b;
+    line-height: 25px;
+    margin-bottom: 10px;
+    margin-top: 25px !important;
+}
+
+.frontpage__links{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: stretch;
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    flex-wrap: nowrap;
+    max-width: 700px;
+    margin-bottom: 70px;
+}
