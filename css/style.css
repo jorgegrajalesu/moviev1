@@ -439,3 +439,37 @@ img{
     align-items: center;
     flex-wrap: wrap;
 }
+
+.col__50{
+    flex: 0 0 50%;
+    max-width: 90%;
+}
+
+.thumbnail__img{
+    width: 100%;
+    height: 300px;
+    border-radius: 5px;
+    box-shadow: 0 25px 65px rgba(82, 82, 82, 0.473);
+}
+
+.hero__container{
+    width: 100%;
+    max-width: 1245px;
+    margin: 0 auto;
+}
+
+.frontpage__hero{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 200px;
+    position: relative;
+
+}
+
+.frontpage__bg-overlay{
+    
+}
+
