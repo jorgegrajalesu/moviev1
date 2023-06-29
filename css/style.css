@@ -526,6 +526,29 @@ img{
 }
 
 .hero__title{
-    
+    width: 100%;
+    color: #fff;
+    font-size: 2.3rem;
+    padding-top: 10%;
+    line-height: 55px;
+    letter-spacing: 0;
+
 }
 
+.hero__description{
+    display: inline-block;
+    font-size: 1.1rem;
+    height: 70px;
+    line-height: 70px;
+    vertical-align: middle;
+    color: #fff;
+}
+
+.hero__action{
+    color: #000;
+    background-color: #fff;
+    visibility: visible;
+    opacity: 0.9;
+    font-size: 1.3rem;
+    padding: 13px 40px;
+}
