@@ -420,3 +420,22 @@ img{
     -webkit-text-fill-color: transparent;
     display: inline-block;
 }
+
+.gray__bg{
+    background: #eaeaea;
+}
+
+.section__container{
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 80px 0;
+}
+
+.row{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
