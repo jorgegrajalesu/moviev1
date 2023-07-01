@@ -620,6 +620,7 @@ img{
 .nameMovie h3{
     font-size: 1.5em;
     margin-top: 60px;
+    margin: 0 auto;
 
 }
 
@@ -635,4 +636,6 @@ img{
 .movie__internacional p{
     font-size: 1.3rem;
     line-height: 25px;
+    padding: 2px;
 }
+
