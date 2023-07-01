@@ -553,3 +553,14 @@ img{
     padding: 13px 40px;
 }
 
+/* películas internacionales */
+#internacional{
+    display: grid;
+    margin-top: 100px;
+    background-color: #1c2370;
+    width: 100vw;
+    min-height: 100vh;
+    padding: 0;
+    place-content: center;
+
+}
