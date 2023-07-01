@@ -639,3 +639,24 @@ img{
     padding: 2px;
 }
 
+.bay{
+    position: absolute;
+    bottom: 30px;
+    right: 20px;
+    left: 90px;
+}
+
+.bay .button{
+    color: #fff;
+    font-size: 1.5rem;
+    background-color: #192162;
+    border-radius: 7px;
+    cursor: pointer;
+    transition: .5s;
+    padding: 10px 15px;
+
+}
+
+.bay .button:hover{
+    transform: scale(1.1);
+}
