@@ -610,3 +610,29 @@ img{
     height: 60%;
     place-content: center;
 }
+
+.nameMovie{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.nameMovie h3{
+    font-size: 1.5em;
+    margin-top: 60px;
+
+}
+
+.nameMovie span{
+    font-size: 1.2em;
+}
+
+.stars{
+    font-size: .9em;
+    color: #282828;
+}
+
+.movie__internacional p{
+    font-size: 1.3rem;
+    line-height: 25px;
+}
