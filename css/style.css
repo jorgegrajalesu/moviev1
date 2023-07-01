@@ -603,3 +603,10 @@ img{
     transform: translateY(-15px);
     box-shadow: 0 5px 10px rgba(145, 145, 145, 0.512);
 }
+
+.movie__internacional-image{
+    display: grid;
+    width: 100%;
+    height: 60%;
+    place-content: center;
+}
