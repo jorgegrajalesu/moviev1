@@ -661,6 +661,27 @@ img{
     transform: scale(1.1);
 }
 
+.bay-cards{
+    position: absolute;
+    bottom: 30px;
+    right: 20px;
+    left: 90px;
+}
+
+.bay-cards .button-cards{
+    color: #fff;
+    font-size: 1.5rem;
+    background-color: #eb3b0a;
+    border-radius: 7px;
+    cursor: pointer;
+    transition: .5s;
+    padding: 10px 15px;
+
+}
+
+.bay-cards .button-cards:hover{
+    transform: scale(1.1);
+}
 /* reponsive */
 @media screen and (max-width: 650px) {
     /* encabezado */
