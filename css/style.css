@@ -699,6 +699,8 @@ img{
         width: auto;
         float: none;
         color: #fff;
+        display: block;
+        margin-left: 25px;
         
     }
 
