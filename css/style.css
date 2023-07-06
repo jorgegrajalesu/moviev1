@@ -660,3 +660,12 @@ img{
 .bay .button:hover{
     transform: scale(1.1);
 }
+
+/* reponsive */
+@media screen and (max-width: 650px) {
+    /* encabezado */
+    
+
+
+}
+
