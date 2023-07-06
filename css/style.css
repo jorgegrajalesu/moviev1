@@ -673,6 +673,13 @@ img{
         justify-content: center;
     }
 
+    .container-menu .header-superior{
+        width: 100%;
+        display: block;
+    }
+
+
+
 
 }
 
