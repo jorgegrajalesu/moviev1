@@ -682,6 +682,7 @@ img{
 .bay-cards .button-cards:hover{
     transform: scale(1.1);
 }
+
 /* reponsive */
 @media screen and (max-width: 650px) {
     /* encabezado */
@@ -727,13 +728,15 @@ img{
 
     .container__slider{
         width: 100%;
-        margin-top: 80px;
+        margin-top: 75px;
         margin-bottom: 80px;
+        
     }
 
     .title{
         width: 100%;
-        margin-top: 400px;
+        margin-top: 393px;
+        padding-top: 20px;
 
     }
 
