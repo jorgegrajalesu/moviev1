@@ -899,6 +899,10 @@ img{
         line-height: 60px;
     }
 
+    .hero__action{
+        padding: 20px 50px;
+    }
+
 
 }
 
