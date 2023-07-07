@@ -934,6 +934,12 @@ img{
         margin-bottom: 30px;
     }
 
+    #internacional{
+        display: block;
+        margin: 0 auto;
+        width: 100%;
+    }
+
 
 }
 
