@@ -914,7 +914,18 @@ img{
         height: 100%;
     }
 
-    
+    .frontpage__links-description{
+        width: 100%;
+        font-size: 1.1rem;
+        color: #0c0c0c;
+        margin-left: 5px;
+        padding-left: 15px;
+    }
+
+    .links__main{
+        width: 100%;
+        padding: 0;
+    }
 
 
 }
