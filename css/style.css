@@ -2,7 +2,7 @@
 
 :root{
     --colorHeader:#000;
-    --colorFooter:#440606;
+    --colorFooter:#03022f;
     --fuente:'Roboto', sans-serif;
     --enlaces:#fff;
     --enlaceSobre:#7d1f1f;
@@ -881,6 +881,16 @@ img{
         margin-top: 393px;
         padding-top: 20px;
 
+    }
+
+    .hero__description{
+        display: block;
+        margin-top: 22px;
+    }
+
+    .hero__wrapper{
+        padding-top: 5%;
+        margin-bottom: 1.5em;
     }
 
 
