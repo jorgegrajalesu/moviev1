@@ -904,7 +904,7 @@ img{
     }
 
     .frontpage__links{
-        display: block;
+        display: block !important;
         width: 100%;
         margin: 0 auto;
     }
@@ -913,6 +913,8 @@ img{
         width: 70%;
         height: 100%;
     }
+
+    
 
 
 }
