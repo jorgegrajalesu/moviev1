@@ -893,6 +893,12 @@ img{
         margin-bottom: 1.5em;
     }
 
+    .hero__title{
+        width: 50%;
+        font-size: 1.6rem;
+        line-height: 60px;
+    }
+
 
 }
 
