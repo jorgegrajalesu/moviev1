@@ -903,6 +903,17 @@ img{
         padding: 20px 50px;
     }
 
+    .frontpage__links{
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .frontpage__links-icon{
+        width: 70%;
+        height: 100%;
+    }
+
 
 }
 
