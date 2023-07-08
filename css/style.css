@@ -1170,6 +1170,14 @@ img{
        font-size:30px;
     }
 
+    #page-footer .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 70px 0;
+    }
+
 
 
     
