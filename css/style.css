@@ -1040,24 +1040,7 @@ img{
         margin-bottom: 30px;
     }
 
-    #internacional{
-        display: block;
-        margin: 0 auto;
-        width: 100%;
-    }
-
-    .movies, .movie__internacional{
-        display: block;
-        width: 100%;
-        margin-top: 5px;
-    }
-
-    .bay .button{
-        padding-top: 5px;
-        margin: 0 auto;
-        margin-left: 150px;
-    }
-
+    
 
 }
 
