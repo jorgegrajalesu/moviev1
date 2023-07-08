@@ -1017,8 +1017,9 @@ img{
     }
 
     .frontpage__links-icon{
-        width: 70%;
+        width: 100%;
         height: 100%;
+        padding: 10px;
     }
 
     .frontpage__links-description{
