@@ -1154,6 +1154,15 @@ img{
         max-width: 50%;
     }
 
+    .footer__cta-container{
+        max-width: 1200px;
+        flex-direction: row;
+        margin: 0 auto;
+        justify-content: space-between;
+    }
+
+    
+
     
 
 }
