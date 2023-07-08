@@ -1122,7 +1122,8 @@ img{
     }
 
     .frontpage__cta-wrapper{
-        box-shadow: 0 60px 135px rgba(0, 0, 0, 0.345);
+        box-shadow: 0 60px 135px rgba(0, 0, 0, 0.345), 0 15px 65px rgba(0, 0, 0, 0.1);
+        background-color: #03022f;
     }
 
     
