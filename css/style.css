@@ -1073,7 +1073,8 @@ img{
     }
 
     .hero__action{
-        padding: 20px 50px;
+       bottom: -80px;
+       margin-right: 35px;
     }
 
     .frontpage__links{
