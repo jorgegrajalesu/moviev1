@@ -1131,6 +1131,11 @@ img{
         padding: calc((100vw - 180px) * 0.05);
     }
 
+    .frontpage__cta-action{
+        color: #fff;
+        border: 2px solid #fff;
+    }
+
     
 
 }
