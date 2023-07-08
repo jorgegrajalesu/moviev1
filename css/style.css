@@ -1006,9 +1006,14 @@ img{
     }
 
     .frontpage__links{
-        display: block !important;
+        display: flex;
         width: 100%;
         margin: 0 auto;
+        flex-flow: row nowrap;
+        align-items: flex-start;
+        text-align: center;
+        justify-content: space-between;
+        max-width: 700px;
     }
 
     .frontpage__links-icon{
