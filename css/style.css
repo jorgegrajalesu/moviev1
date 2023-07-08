@@ -1077,7 +1077,7 @@ img{
        margin-right: 35px;
     }
 
-    .frontpage__links{
+    .frontpage__links, .hero__content{
         display: flex;
         width: 100%;
         margin: 0 auto;
