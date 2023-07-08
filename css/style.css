@@ -1040,6 +1040,12 @@ img{
         margin-bottom: 30px;
     }
 
+    .frontpage__cta-title{      
+        width: 100%;
+        margin-left: 500px;
+        padding-bottom: 50px;
+    }
+
     
 
 }
