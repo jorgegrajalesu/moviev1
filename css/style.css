@@ -1061,7 +1061,7 @@ img{
         font-size: 1.5rem;
     }
 
-    .hero__wrapper{
+    /* .hero__wrapper{
         padding-top: 5%;
         margin-bottom: 1.5em;
     }
@@ -1070,7 +1070,7 @@ img{
         width: 50%;
         font-size: 1.6rem;
         line-height: 60px;
-    }
+    } */
 
     .hero__action{
        bottom: -80px;
