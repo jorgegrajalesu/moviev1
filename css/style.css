@@ -1078,14 +1078,8 @@ img{
     }
 
     .frontpage__links, .hero__content{
-        display: flex;
-        width: 100%;
-        margin: 0 auto;
-        flex-flow: row nowrap;
-        align-items: flex-start;
-        text-align: center;
-        justify-content: space-between;
-        max-width: 700px;
+        
+        max-width: 900px;
     }
 
     .frontpage__links-icon{
@@ -1094,22 +1088,21 @@ img{
         padding: 10px;
     }
 
-    .frontpage__links-description{
+    /* .frontpage__links-description{
         max-width: 260px;
         font-size: 1.1rem;
         color: #0c0c0c;       
        
-    }
+    } */
 
+/*     
     .links__main{       
         padding: 0;
-    }
+    } */
 
     .cta__main{
-        max-width: 90%;
-        margin:0 auto;
-        margin-top: 80px;
-        margin-bottom: 30px;
+        max-width: 1090px;
+       
     }
 
     .frontpage__cta-title{      
