@@ -1178,6 +1178,13 @@ img{
         padding: 70px 0;
     }
 
+    .footer__menu {
+        max-width: 300px;
+        grid-column: 1/3;
+        grid-row-start: 1;
+        padding-left: 1em;
+    }
+
 
 
     
