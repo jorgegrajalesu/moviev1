@@ -1121,6 +1121,10 @@ img{
         line-height: 30px;
     }
 
+    .frontpage__cta-wrapper{
+        box-shadow: 0 60px 135px rgba(0, 0, 0, 0.345);
+    }
+
     
 
 }
