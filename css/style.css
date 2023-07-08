@@ -1111,6 +1111,16 @@ img{
         padding-bottom: 50px;
     }
 
+    .links-title{
+        font-size: 50px;
+        line-height: 60px;
+    }
+
+    p{
+        font-size: 1.5rem;
+        line-height: 30px;
+    }
+
     
 
 }
