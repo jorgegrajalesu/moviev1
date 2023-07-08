@@ -1142,6 +1142,18 @@ img{
         padding: 120px 0;
     }
 
+    .row{
+        flex-direction: row;
+        flex-wrap: nowrap;
+        align-content: space-around;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .col__50{
+        max-width: 50%;
+    }
+
     
 
 }
