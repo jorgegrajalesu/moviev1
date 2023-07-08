@@ -1136,6 +1136,12 @@ img{
         border: 2px solid #fff;
     }
 
+    .section__container{
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 120px 0;
+    }
+
     
 
 }
