@@ -1022,11 +1022,10 @@ img{
     }
 
     .frontpage__links-description{
-        width: 100%;
+        max-width: 260px;
         font-size: 1.1rem;
-        color: #0c0c0c;
-        margin-left: 5px;
-        padding-left: 15px;
+        color: #0c0c0c;       
+       
     }
 
     .links__main{
